@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+.font-Bebas {
+  font-family: "Bebas Neue", cursive !important;
+}
+
+.font-montserrat {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.font-roboto {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.box-shadow {
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.05);
+  border-radius: 20px;
+}
